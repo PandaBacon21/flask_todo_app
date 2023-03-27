@@ -1,5 +1,5 @@
-# flask_todo_app
-Basic ToDo app with Flask
+# Basic Flask Todo App
+
 
 Guided with https://dev.to/nagatodev/getting-started-with-flask-1kn1
 
